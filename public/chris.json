@@ -1,0 +1,27 @@
+{
+  "name": "Chris Oh",
+  "title": "Software Engineer",
+  "education": [
+    {
+      "school": "University of Washington",
+      "major": "Information Science"
+    }
+  ],
+  "work": [
+    {
+      "position": "Backend Developer",
+      "company": "The Homestayhub LLC",
+      "location": "Bellevue, Washington"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "The Homestayhub LLC",
+      "location": "Bellevue, Washington"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "The Homestayhub LLC",
+      "location": "Bellevue, Washington"
+    }
+  ]
+}
