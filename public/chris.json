@@ -1,27 +1,41 @@
 {
-  "name": "Chris Oh",
-  "title": "Software Engineer",
-  "education": [
-    {
-      "school": "University of Washington",
-      "major": "Information Science"
-    }
-  ],
-  "experience": [
-    {
-      "position": "Software Engineer",
-      "company": "Hudson’s Bay Company",
-      "location": "New York, New York"
-    },
-    {
-      "position": "Software Engineer Intern",
-      "company": "Gilt",
-      "location": "New York, New York"
-    },
-    {
-      "position": "Software Engineer Intern",
-      "company": "The Homestayhub LLC",
-      "location": "Bellevue, Washington"
-    }
-  ]
+	"name": "Chris Oh",
+	"title": "Software Engineer",
+	"education": [
+		{
+			"school": "University of Washington",
+			"major": "Information Science"
+		}
+	],
+	"experience": [
+		{
+			"role": "Software Engineer",
+			"company": "Hudson’s Bay Company",
+			"location": "New York, New York"
+		},
+		{
+			"role": "Software Engineer Intern",
+			"company": "Gilt",
+			"location": "New York, New York"
+		},
+		{
+			"role": "Software Engineer Intern",
+			"company": "The Homestayhub LLC",
+			"location": "Bellevue, Washington"
+		}
+	],
+	"website": [
+		{
+			"name": "GitHub",
+			"url": "https://github.com/5tigerjelly"
+		},
+		{
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/bummookoh"
+		},
+		{
+			"name": "Medium",
+			"url": "https://medium.com/@5tigerjelly"
+		}
+	]
 }
