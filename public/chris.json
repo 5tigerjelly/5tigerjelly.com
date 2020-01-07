@@ -9,18 +9,23 @@
   ],
   "experience": [
     {
+      "company": "Amazon",
       "role": "Software Engineer",
+      "location": "Seattle, Washington"
+    },
+    {
       "company": "Hudson’s Bay Company",
+      "role": "Software Engineer",
       "location": "New York, New York"
     },
     {
-      "role": "Software Engineer Intern",
       "company": "Gilt",
+      "role": "Software Engineer Intern",
       "location": "New York, New York"
     },
     {
-      "role": "Software Engineer Intern",
       "company": "The Homestayhub LLC",
+      "role": "Software Engineer Intern",
       "location": "Bellevue, Washington"
     }
   ],
