@@ -7,5 +7,6 @@ All website requests are directed to `chris.json` file, not index.html
 On Firebase hosting
 
 ## CI
-Using Travis CI to auto deploy
-[![Build Status](https://travis-ci.org/5tigerjelly/5tigerjelly.com.svg?branch=master)](https://travis-ci.org/5tigerjelly/5tigerjelly.com)
+![Build and Deploy](https://github.com/5tigerjelly/5tigerjelly.com/workflows/Build%20and%20Deploy/badge.svg?branch=master)
+
+Using Github Actions to auto deploy
