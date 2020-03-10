@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Firebase GitHub Action
-  uses: pizzafox/firebase-action@1.0.7
-  env:
-    PROJECT_ID: "tigerjelly-com-51229"
-    FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-  with:
-    args: deploy
+        uses: pizzafox/firebase-action@1.0.7
+        env:
+          PROJECT_ID: "tigerjelly-com-51229"
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        with:
+          args: deploy
