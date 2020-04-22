@@ -45,8 +45,12 @@
   ],
   "project": [
     {
+      "name": "Turnips Trading Platform",
+      "url": "https://turnips.trade"
+    },
+    {
       "name": "Porkfolio",
-      "url": "http://porkfol.io/"
+      "url": "http://porkfol.io"
 
     }
   ],
