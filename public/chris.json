@@ -9,6 +9,11 @@
   ],
   "experience": [
     {
+      "company": "Google",
+      "role": "Software Engineer",
+      "location": "New York, New York"
+    },
+    {
       "company": "Amazon",
       "role": "Software Engineer",
       "location": "Seattle, Washington"
