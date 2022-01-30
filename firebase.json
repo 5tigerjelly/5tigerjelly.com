@@ -5,7 +5,7 @@
     "rewrites": [
       {
         "source": "/",
-        "destination": "/chris.json"
+        "destination": "/index.html"
       }
     ]
   }
